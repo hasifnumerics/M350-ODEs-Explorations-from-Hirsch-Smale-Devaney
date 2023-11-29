@@ -19,12 +19,14 @@ A series of challenges showcasing Euler, Improved Euler, and Runge-Kutta methods
 - **In-depth Exploration**: [Exploration 7.5 Solution](https://github.com/hasifnumerics/M350-ODEs-Explorations-from-Hirsch-Smale-Devaney/blob/7778c46ac7a0c3961839d24dc20d4550986caf1c/Exploration_7_5_Numerical_Methods.pdf)
 
 ### **Chaotic Behavior in Differential Equations**:
-An exploration into the sensitive dependence on initial conditions in ODEs, using the equation \( \frac{dy}{dt} = e^t \sin(y) \). This includes an analysis of Euler and Runge-Kutta methods' performances under varying initial conditions.
+An exploration into the sensitive dependence on initial conditions in ODEs, using the equation \( \frac{dy}{dt} = e^t \sin(y) \) This includes an analysis of Euler and Runge-Kutta methods' performances under varying initial conditions.
 - **Fascinating Findings**: [Exploration 7.6 Solution](https://github.com/hasifnumerics/M350-ODEs-Explorations-from-Hirsch-Smale-Devaney/blob/7778c46ac7a0c3961839d24dc20d4550986caf1c/Exploration_7_6_Numerical_Methods_and_Chaos.pdf)
 
+
 ### **Three-Parameter Linear Systems Analysis**:
-This challenge involves a 3-parameter linear system, exploring the different behaviors in the solution space as parameters vary. It involves identifying regions in the parameter space corresponding to various system behaviors like saddles, centers, and spiral sinks.
+This challenge involves analyzing a 3-parameter linear system represented by the differential equation \( X' = \begin{pmatrix} a & b \\ c & 0 \end{pmatrix} \). The exploration involves exploring different behaviors in the solution space as parameters vary, such as identifying regions in the parameter space corresponding to various system behaviors like saddles, centers, and spiral sinks.
 - **Detailed Insights**: [Exploration 4.3 Solution](https://github.com/hasifnumerics/M350-ODEs-Explorations-from-Hirsch-Smale-Devaney/blob/7778c46ac7a0c3961839d24dc20d4550986caf1c/Exploration_4_3_3D_Parameter_Space.pdf)
+
 
 ## Why Explore This Repository?
 Each challenge in this repository not only demonstrates my proficiency in tackling complex ODE problems but also showcases the beauty and intricacy of dynamical systems. Whether you're a grad school committee member, a potential employer, or simply an enthusiast in mathematics, these explorations offer a deep dive into the fascinating world of ODEs, all underscored by rigorous analytical and numerical methods.
